@@ -1,0 +1,2 @@
+# migtocloud.github.io
+blog

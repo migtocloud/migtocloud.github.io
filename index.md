@@ -1,5 +1,8 @@
 ## Azure Cloud Blog
 ### just another test
-#### just me here
+#### Test code block
+```bash
+nano /etc/ssh.d
+```
 ##### more here1
 ###### another one
